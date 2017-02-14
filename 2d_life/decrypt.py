@@ -67,3 +67,17 @@ for rr in range(1, 2):
     print
 
 f.close()
+
+# Result
+'''
+1e2871651620cc92:MESSAGE
+cda1bb2290ffd981:FROM SPY
+07429ffee16bf191:<!--TABL
+9fab3daf1303fb66:E:agents
+885b6aba0b66a788: NUMBER
+ee9084b810a5e7c2:OF COLUM
+4f49ad006d31314b:NS:5-->;
+f1fd407295acfa7c:SPY;66
+
+MESSAGE FROM SPY<!--TABLE:agents NUMBER OF COLUMNS:5-->;SPY;66
+'''
